@@ -23,5 +23,6 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+"homepage": "https://12ven.github.io/weather-now-multi-area"
 
 }
